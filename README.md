@@ -42,9 +42,10 @@
 
 ### 6. Ubah mode menjadi ON UPDATE CASCADE ON DELETE SET NULL 
 Untuk Dapat menghapus data kita bisa masukan perintah seperti berikut
-```
+
+***
 ALTER TABLE mahasiswa ADD CONSTRAINT FK_Dosen FOREIGN KEY (kd_ds) REFERENCES dosen(kd_ds) ON UPDATE CASCADE ON DELETE SET NULL;
-```
+***
 
 ### 7. Lakukan penghapusan data pada tabel dosen.
 
