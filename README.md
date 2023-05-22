@@ -15,7 +15,7 @@
 
 ![ss3](https://github.com/FsBagaskorooooo/Praktikum3/assets/130354090/b8fdb56d-544b-47d6-aa32-bf41769f51c3)
 
-![ss4](https://github.com/FsBagaskorooooo/Praktikum3/assets/130354090/fc357139-4f47-4c70-94cd-021f89b0e617
+![ss4](https://github.com/FsBagaskorooooo/Praktikum3/assets/130354090/fc357139-4f47-4c70-94cd-021f89b0e617)
 
 
 ### 2. Hapus satu record dat pada tabel dosen yang telah dirujuk pada tabel mahasiswa
