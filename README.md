@@ -9,36 +9,32 @@
 
 ### 1. Lakukan penambahan data pada tabel mahasiswa dengan mengisi kd_ds yang belum ada pada data dosen. 
 
-![ss1](https://github.com/FsBagaskorooooo/Praktikum3/assets/130354090/21662a20-ae21-4f9d-88aa-9fef347e53c1)
+![ss1](https://github.com/FsBagaskorooooo/Praktikum3/assets/130354090/1723a510-8e66-4d9c-ac4c-cb022a3c3838)
 
-![ss2](https://github.com/FsBagaskorooooo/Praktikum3/assets/130354090/17fda049-920c-46de-b665-6e4854bb3fc4)
+![ss2](https://github.com/FsBagaskorooooo/Praktikum3/assets/130354090/69840f33-c3fe-40fe-b649-599c034598a2)
 
-![ss3](https://github.com/FsBagaskorooooo/Praktikum3/assets/130354090/b8fdb56d-544b-47d6-aa32-bf41769f51c3)
+![ss3](https://github.com/FsBagaskorooooo/Praktikum3/assets/130354090/803d6d6f-baec-48e0-86b7-7995c4716bc3)
 
-![ss4](https://github.com/FsBagaskorooooo/Praktikum3/assets/130354090/fc357139-4f47-4c70-94cd-021f89b0e617)
-
+![ss4](https://github.com/FsBagaskorooooo/Praktikum3/assets/130354090/1ef27cdc-9ee7-4f49-9994-09c781af137f)
 
 ### 2. Hapus satu record dat pada tabel dosen yang telah dirujuk pada tabel mahasiswa
 
-![ss5](https://github.com/FsBagaskorooooo/Praktikum3/assets/130354090/7c411ca7-40cd-454d-a383-3b39d337832d)
+![ss5](https://github.com/FsBagaskorooooo/Praktikum3/assets/130354090/c86d9ffd-bc32-4bdb-88ef-618142575d2f)
 
-![ss6](https://github.com/FsBagaskorooooo/Praktikum3/assets/130354090/26ea7635-2d1c-449e-aa5b-145cc8a02e73)
-
+![ss6](https://github.com/FsBagaskorooooo/Praktikum3/assets/130354090/2f554b3e-6bd5-438f-8547-27c0cfd2bfd6)
 
 ### 3. Ubah mode menjadi ON UPDATE CASCADE ON DELETE RESTRICT. 
 
-![ss7](https://github.com/FsBagaskorooooo/Praktikum3/assets/130354090/e4355c21-5983-4d84-8003-102fbb842cc4)
+
+![ss7](https://github.com/FsBagaskorooooo/Praktikum3/assets/130354090/ce5f7cd4-463d-4c1b-b5ac-b1d4139cdcaf)
 
 ### 4. Lakukan perubahan data pada tabel dosen (kd_ds).
 
-
-![ss8](https://github.com/FsBagaskorooooo/Praktikum3/assets/130354090/d014a093-c7de-46f1-8fdc-9961dc8ac997)
-
+![ss8](https://github.com/FsBagaskorooooo/Praktikum3/assets/130354090/c422a6f5-0d81-43ae-a603-3b3b9e84211b)
 
 ### 5. Lakukan penghapusan data pada tabel dosen, 
 
-![ss10](https://github.com/FsBagaskorooooo/Praktikum3/assets/130354090/b10a47f1-e140-455c-90a1-a530e92c5cfc)
-
+![ss10](https://github.com/FsBagaskorooooo/Praktikum3/assets/130354090/8ff58b9a-9121-4469-8b23-da0d91db94d2)
 
 ### 6. Ubah mode menjadi ON UPDATE CASCADE ON DELETE SET NULL 
 Untuk Dapat menghapus data kita bisa masukan perintah seperti berikut
@@ -49,8 +45,7 @@ ALTER TABLE mahasiswa ADD CONSTRAINT FK_Dosen FOREIGN KEY (kd_ds) REFERENCES dos
 
 ### 7. Lakukan penghapusan data pada tabel dosen.
 
-![ss9](https://github.com/FsBagaskorooooo/Praktikum3/assets/130354090/9e3cda41-2777-4830-b227-3c8f0a96e513)
-
+![ss9](https://github.com/FsBagaskorooooo/Praktikum3/assets/130354090/d01a5eb0-8127-478b-8dfe-0201f3aac3f7)
 
 
 ## Evaluasi Dan Pertanyaan
